@@ -15,6 +15,12 @@ Non Functional Requirements:
 - System should assign weekly playlists that are unique to the user that creates them
 - System should be consistent (if multiple ppl follow the same artists, they should all see the same music added to their playlists)
 - Should be able to scale to add as many songs as the user follows
-## Stack
 
-This project uses React framework for the frontend and ExpressJS for the backend
+## Stack
+This project uses React framework for the frontend and ExpressJS for the backend.
+
+## Things to Do
+- Need to host this site on something like Vercel
+- database like MongoDB for storage of playlists, comments
+- need to come up with way to authenticate users, store them
+- better styling
